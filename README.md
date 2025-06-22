@@ -1,6 +1,6 @@
 # App de Registro y consulta de películas
 
-Aplicación móvil desarrollada en Kotlin* usando Jetpack Compose, que permite registrar, editar, eliminar y consultar películas
+Aplicación móvil desarrollada en Kotlin usando Jetpack Compose, que permite registrar, editar, eliminar y consultar películas
 localmente con Room y de forma remota mediante una API externa (OMDb). Es una solución completa que integra almacenamiento local, llamadas a servicios REST y arquitectura MVVM.
 
 1. Funcionalidades
@@ -41,7 +41,7 @@ Retrofit (API REST)
 - com.squareup.retrofit2:retrofit
 - com.squareup.retrofit2:converter-gson
 
-Corrutinas
+Corrutines
 - org.jetbrains.kotlinx:kotlinx-coroutines-core
 - org.jetbrains.kotlinx:kotlinx-coroutines-android
 
